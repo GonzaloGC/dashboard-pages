@@ -1,5 +1,7 @@
 const InvoicesPage = () => {
-  return <h1>soy una factura</h1>;
+  return <>
+  <button className="boton-invoice">Inicio</button>
+  </>
 };
 
 export default InvoicesPage;
