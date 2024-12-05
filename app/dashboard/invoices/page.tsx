@@ -1,6 +1,6 @@
 const InvoicesPage = () => {
   return <>
-  <button className="boton-invoice">Inicio</button>
+  <button className="border border-[#000]">Expandir</button>
   </>
 };
 
